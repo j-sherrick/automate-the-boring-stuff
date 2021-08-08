@@ -52,7 +52,7 @@ for expirementNumber in range(SAMPLE_SIZE):
 ###########  CALCULATE STREAK PERCENTAGES ###########
 
 percentageByNumber = []
-# percentageByNumber holds calculated percentages of streaks by eatch number. 
+# percentageByNumber holds calculated percentages of streaks by each number. 
 # For example what % of 100 flips did 0 streaks occur, 1 streak occur, 2 streaks occur, etc...
 # Number of streaks, again corresponds to list index i.e. 0 streaks is at percentageByNumber[0], 1 streak at percentageByNumber[1]
 
